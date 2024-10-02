@@ -1,0 +1,102 @@
+HRM TOOL
+video explanation: https://drive.google.com/file/d/1AnHJZQRZQofPzJqmh5xtSijazWWi63d5/view?usp=drive_link
+frontend: https://github.com/madhvi20/hrm-system-
+ bacakend:https://github.com/madhvi20/employee-leave-
+
+• Incorporated Redux, to manage application state efficiently, ensuring consistent behavior across components and facilitating seamless data flow throughout the application.
+• Implemented functionalities for adding and managing employee profiles within the system, ensuring seamless access to employee data for HR personnel.
+• Integrated a robust leave management system allowing for the efficient tracking and management of employee leave requests, including the sanctioning process for various types of leave.
+• Utilized HOCs to encapsulate and enhance the functionalities of multiple components, promoting code reusability and improving the maintainability of the codebase.
+• Leveraged MongoDB, a NoSQL database, for storing and managing employee data, providing a flexible and scalable solution for data storage and retrieval.
+• Frontend: React.js
+• State Management: Redux
+• Backend: MongoDB
+
+
+
+Flutter Weather App:
+https://github.com/madhvi20/weather_
+The Weather Application is a user-friendly mobile app developed using Flutter, designed to provide real-time weather updates for users based on their location. This application leverages modern mobile development practices to deliver an intuitive and engaging user experience, making it easier for users to stay informed about current weather conditions.
+
+Features
+Real-time Weather Data: The app fetches and displays real-time weather data including temperature, humidity, wind speed, and weather conditions.
+Location-based Services: Users can get weather updates for their current location using the device's GPS.
+Search Functionality: Users can search for weather information for different cities globally.
+
+Flutter Reminder App:
+https://github.com/madhvi20/Reminder_app
+The Reminder Application is a versatile mobile app developed using Flutter, designed to help users manage their tasks and reminders efficiently. This application ensures that users can keep track of their daily activities, set reminders for important events, and organize their schedules seamlessly.
+
+Features
+Task Management: Users can create, update, and delete tasks easily.
+Reminders and Notifications: Set reminders for tasks with customizable notifications to alert users at the specified time.
+Recurring Tasks: Support for creating recurring tasks (daily, weekly, monthly) to manage ongoing activities.
+
+
+
+Quiz Platform:
+https://github.com/madhvi20/quiz
+
+todo app:
+https://github.com/madhvi20/todo-app
+
+I believe I am a strong fit for the  intern position due to my solid technical foundation, proactive attitude, and passion for continuous learning. My understanding of fundamental engineering principles, coupled with proficiency in various programming languages and tools, has been honed through coursework and hands-on projects. I am a proactive problem solver who enjoys tackling complex challenges and finding efficient solutions. My experience in group projects has taught me the value of effective communication and teamwork, and I thrive in collaborative environments. Additionally, I am committed to staying updated with the latest advancements in the field, regularly participating in workshops, online courses, and hackathons. My adaptability and resilience allow me to remain positive and productive under pressure, and I am always eager to take on new tasks and achieve desired results. I am particularly excited about the opportunity to contribute to projects that align with my interests and values, and I am eager to bring my enthusiasm and dedication to your team.
+info@accetion.com
+ sales@accetion.com
+contact@tenz.ai
+info@scoopup.io
+hr@saara.io 
+careers[at]glyphx.net
+service@atom.com
+hello@iamhere.app
+hello@iamhere.app
+contact@flomobility.com
+   info@finsall.com
+info@encovate.com
+hitesh-agarwal@diagnokare.in
+connect@tevi.co
+info@intellippt.com
+jobs@canopi.in
+The DishList component in React manages and displays a list of dishes fetched from a backend API 
+using getAllDishes. It uses useState to maintain the list of dishes in its local state and useEffect to fetch 
+data when the component mounts. Each dish is rendered using the DishItem component, which includes
+ functionality to toggle its publish status via togglePublishStatus. When a dish's publish status changes, 
+the list is refreshed to reflect the updated data, ensuring the UI remains synchronized with the backend.
+ Overall, DishList provides a clear and interactive interface for viewing and managing dishes in a Reac
+t application.
+The getAllDishes function imports an array of dishes from a JSON file and returns a Promise
+ that resolves with the current state of these dishes. This simulates fetching data asynchronously,
+ useful for displaying initial dish information in the application.
+
+On the other hand, the togglePublishStatus function toggles the publish status of a
+ dish identified by its dishId. It modifies the local dishes array by mapping through each
+ dish and toggling its isPublished property when the dishId matches. This function returns 
+a Promise resolved immediately after updating the state, mimicking an update operation in
+ a real backend scenario.
+
+kridaverse@gmai.com
+
+
+
+
+
+
+[User] is a strong fit for the intern position due to their solid technical foundation, proactive attitude,
+ and passion for continuous learning. Their understanding of fundamental engineering principles, coupled with proficiency in various programming languages and tools, has been honed through coursework and hands-on projects. [User] is a proactive problem solver who enjoys tackling complex challenges and finding efficient solutions. Their experience in group projects has taught them the value of effective communication and teamwork, and they thrive in collaborative environments. Additionally, [User] is committed to staying updated with the latest advancements in the field, regularly participating in workshops, online courses, and hackathons. Their adaptability and resilience allow them to remain positive and productive under pressure, and they are always eager to take on new tasks and achieve desired results. [User] is particularly excited about the opportunity to contribute to projects that align with their interests and values, and they are eager to bring their enthusiasm and dedication to the team.
+
+Question 1: Convert a given number to words (Range 999 crores)
+Set Matrix Zeroes 
+ Implement LRU cache using suitable data structures 
+Detect loop in a Linked List
+The first question was to remove every 5th element from a map. 
+The 3rd question was a variation of the classic pattern searching in a string.
+ I told him the brute force solution and then the most optimized approach (i.e. using
+ KMP Algorithm). 
+
+
+
+
+
+
+
+
